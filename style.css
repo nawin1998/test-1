@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+:root{
+    --home-font: 50px;
+    --nav-bg:rgb(108, 22, 201);
+    --nav-hover:#ffffff;
+}
+#Contact input::placeholder{
+    text-align: center;
+}
+@media (max-width: 500px){}
+
+
+
+
+
+
+
+
